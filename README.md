@@ -2,6 +2,8 @@
 
 <p align="center"><img src="https://socialify.git.ci/natamazy/libft/image?font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;theme=Auto" alt="project-image"></p>
 
+![Monster png](https://github.com/nkarapet42/42circus/assets/157054887/869125a7-a7b6-4bb1-949d-a0c73e4e5e0c)
+
 <p id="description">The libft project represents an essential C programming endeavor aimed at creating a foundational library. This library comprises a diverse collection of general-purpose functions crucial for various programming tasks. Serving as a fundamental building block for C programmers libft facilitates understanding of standard function implementations memory management and overall programming proficiency in C.</p>
 
 <h2>Introduction</h2>
