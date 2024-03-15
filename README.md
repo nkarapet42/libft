@@ -1,6 +1,6 @@
 <h1 align="center" id="title">libft</h1>
 
-<p align="center"><img src="https://socialify.git.ci/nkarapet42/libft/image?font=KoHo&logo=https%3A%2F%2Fgithub.com%2Fnkarapet42%2Flibft%2Fassets%2F157054887%2Ff3121098-8a84-4429-af72-9be965ec1a71&name=1&owner=1&pattern=Brick%20Wall&theme=Light" alt="libft" width="640" height="320" /></p>
+<p align="center"><img src="https://socialify.git.ci/nkarapet42/libft/image?font=KoHo&logo=https%3A%2F%2Fgithub.com%2Fnkarapet42%2Flibft%2Fassets%2F157054887%2Ff3121098-8a84-4429-af72-9be965ec1a71&name=1&owner=1&pattern=Brick%20Wall&theme=Light" alt="libft"/></p>
 
 <p id="description">The libft project represents an essential C programming endeavor aimed at creating a foundational library. This library comprises a diverse collection of general-purpose functions crucial for various programming tasks. Serving as a fundamental building block for C programmers libft facilitates understanding of standard function implementations memory management and overall programming proficiency in C.</p>
 
